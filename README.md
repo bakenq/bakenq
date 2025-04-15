@@ -12,7 +12,7 @@
 ![Programming Languages](https://skillicons.dev/icons?i=js,ts,python,cs,java)
 
 ### Frontend Development
-![Frontend Development](https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind)
+![Frontend Development](https://skillicons.dev/icons?i=html,css,react,redux,nextjs,tailwind)
 
 ### Backend & Database
 ![Backend & Database](https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase)
