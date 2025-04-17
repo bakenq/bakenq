@@ -14,5 +14,5 @@
 ### Frontend Development
 ![Frontend Development](https://skillicons.dev/icons?i=html,css,react,redux,nextjs,tailwind)
 
-### Backend & Database
-![Backend & Database](https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase)
+### Backend & APIs
+![Backend & Database](https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,graphql)
