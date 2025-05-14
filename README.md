@@ -4,7 +4,7 @@
 
 * 💡 Interests: Full-Stack Web Development, technical problem-solving, modern web technologies (React, Next.js, TypeScript)
 * 🌱 Currently Learning: Deepening knowledge in Full Stack Developement (React, Testing, Advanced state mangement)
-* 💼 Goal: Seeking Junior Frontend or Full-Stack Developer opportunities
+* 💼 Goal: Continuously building expertise in frontend and full-stack development
 
 ## Skills
 
